@@ -1,0 +1,559 @@
+nav {
+	background-color: #0f440a;
+	color: white;
+	margin-top: -70px;
+	margin-bottom: -20px;
+	padding: 30px; 
+	/*padding-bottom: -30px;*/
+}
+
+.myNavUl {
+	margin-left: -50px;
+	margin-bottom:-30px;
+	margin-top: -10px;
+	/*padding: 10px;*/
+}
+
+
+.navTitle {
+	background-color: #3e2c0f;
+	color: white; 
+	margin-left:0px;
+	padding: 10px;
+	
+}
+
+#resources  {
+	background-color: #ba9d7f;
+	color:white;
+	/*margin-right: 10px;*/
+	margin-left: 10px;
+	padding: 10px;
+	/*margin-top: 10px;*/
+	max-width:100px;
+
+}
+
+#studentWork {
+	background-color: #844125;
+		color:white;
+	/*margin-right: 10px;*/
+	margin-left: 10px;
+	/*margin-top: 10px;*/
+	max-width:140px;
+	padding:10px;
+}
+
+#rules {
+	background-color: #38280e;
+		color:white;
+	/*margin-right: 10px;*/
+	margin-left: 10px;
+	/*margin-top: 10px;*/
+	max-width:140px;
+	padding: 10px;
+}
+
+#projects {
+	background-color: #FF6347;
+		color:white;
+	/*margin-right: 10px;*/
+	margin-left: 10px;
+	/*margin-top: 10px;*/
+	max-width:140px;
+	padding: 10px;
+}
+
+
+
+
+
+body {
+	background-color: #ace742;
+	background-color: ##C7F9A2;
+	/*background-color: #bfefb6;*/
+	background-color: #359b28;
+	/*background-color: white;*/
+	color:#e6e6e6;
+	color:white;
+	color: #3e2c0f;
+	margin-top: 15px;
+}
+
+.page-header {
+	margin-left: -30px;
+}
+
+.page-header2 {
+	margin-left: -15px;
+}
+
+h1 {
+
+/*	color:#3e2c0f;
+	color: #eb780a;
+	color: #B4591F;*/
+	/*color: #ace742;*/
+	/*color: #359b28;*/
+	background-color: #20661b;
+	color: #ace742;
+	font-size: 22pt;
+	height:100px;
+	/*max-height: 200px;*/
+	margin-bottom: -15px;
+	margin-top: 15px;
+	max-width:500px;
+	padding-left: 30px;
+	padding-top:30px;
+	padding-bottom: -15px;
+}
+
+ul li {
+	list-style: none;
+	/*display:inline;*/
+	/*margin-left:-50px;*/
+}
+
+.navLink {
+	list-style: none;
+	display:inline;
+	/*margin-left:-50px;*/
+}
+
+
+
+li a {
+
+	color:#f69f19;
+	color: #903A2A;
+	/*color:white;*/
+/*	color:red;	
+	color: #ea0fbf;*/
+	display: inline-block;
+	font-size: 12pt; 
+	list-style: none;
+	margin-top: -5px;
+	margin-bottom: 10px;
+/*	margin-left: 10px;*/
+	max-width:600px;
+	/*-webkit-text-stroke: 0.8px black;*/
+
+}
+
+
+a:hover {
+	color:#eb780a;
+}
+
+p {
+	max-width: 400px;
+}
+
+p a {
+	color: brown;
+}
+h2 { 
+   position: relative; 
+   top: -200px; 
+   left: 0; 
+   /*width: 100%; */
+}
+h2 span { 
+   color: white; 
+   font: bold 24px/45px Helvetica, Sans-Serif; 
+   letter-spacing: -1px;  
+   background: rgb(0, 0, 0); /* fallback color */
+   background: rgba(0, 0, 0, 0.7);
+   padding: 10px; 
+}
+
+.row {
+	margin-right:-10px;
+}
+
+.mail {
+	color:white;
+	/*font-size: 12px;*/
+text-decoration: underline;
+	/*color: #F11092;*/
+}
+
+.assignment {
+	/*color: #F20CC8;*/
+	color: #4B1C13;
+	color:#914502;
+	color: #ace742;
+	/*color: #ace742;*/
+/*	color:#391D04;
+	color:#F11092;*/
+	margin-top:5px;
+	margin-bottom:30px;
+	background-color: yellow;
+	background-color: #640fea;
+	background-color:#d394ff;
+	background-color: #eb780a;
+	background-color: #F11092;
+	background-color: #820975;
+	background-color: #c4032a;
+	background-color: #a8440f;
+	/*background-color: #737773;*/
+	font-size: 13pt; 
+	/*height:100px;*/
+	margin-left: -15px;
+	margin-top: -10px;
+	max-width:500px;
+/*	padding-left: 15px;
+	padding-right: 30px;
+	padding-top:30px;
+	padding-bottom:30px;*/
+	padding: 10px 40px 10px 30px;
+}
+
+
+.date{
+	color: 4B1C13;
+	color: #ace742;
+	font-size:22pt;
+	margin-left: 20px;
+	padding-bottom: 5px;
+	/*-webkit-text-stroke: 0.8px black;*/
+}
+
+.dayTheme {
+	
+	color: 4B1C13;
+	color: #ace742;
+	margin-left: 24px;
+/*	color: black; 
+	font-family:"Minion Pro", serif; 
+	font-style: normal; 
+	font-weight: normal; 
+	text-decoration: none; */
+	font-size: 22pt; 
+	max-width:400px;
+}
+
+
+
+
+
+
+.rulesPageBody {
+	background-color: black;
+	margin-left: -30px;
+	max-width: 500px;
+}
+
+/*.panel {
+	float: right;
+}*/
+.panel-body{
+	background-color: #3e2c0f;
+	background-color: #ba9d7f;
+	/*background-color:white;*/
+	/*background-color: black;*/
+	color:brown;
+	/*color:white;*/
+	/*color:#640fea;*/
+	font-size: 18px;
+	/*font-size: 12px;*/
+	/*-webkit-text-stroke: 0.4px black;*/
+}
+
+.subTitle {
+	background-color: #7c651d;
+	color: #916b70;
+	color: #efaac7;
+	color: #cebec0;
+	color: #f93650;
+	color: #6d1521;
+	font-size:12pt;
+	max-width:500px;
+	margin-left: 0px;
+	margin-top: -10px;
+	padding: 10px 40px 10px 30px;
+}
+
+.names {
+	background-color: #ce9665;
+	color:brown;
+	font-size:10pt;
+	margin-top: -10px;
+	padding: 10px 40px 10px 30px;
+	max-width:500px;
+	margin-left: 0px;
+}
+
+
+.crits {
+	background-color: #844125;
+	background-color: #5e2104;
+	color:#f442eb;
+	color:#ace742;
+	color: #f20424;
+	color: #c1011b;
+	color:#822035;
+	color:#d80fcb;
+	font-size:10pt;
+	max-width:500px;
+	margin-left: 0px;
+	margin-top: -10px;
+/*		padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+	padding-right: 10px;*/
+	padding: 10px 40px 10px 30px;
+}
+
+
+.fieldtrip {
+	color: #c1011b;
+	color:#f442eb;
+	font-size:30pt;
+		max-width:500px;
+	margin-left: 10px;
+	margin-top: -10px;
+}
+
+
+.lab {
+	background-color: #844125;
+	color:#f442eb;
+	color: #efaac7;
+	color: #916b70;
+	color:#e82952;
+	color: #ffa0b5;
+	color: #822035;
+	color:#e874e0;
+	/*color:#ace742;*/
+	font-size:10pt;
+	max-width:500px;
+	margin-left: 0px;
+	margin-top: -10px;
+/*		padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+	padding-right: 10px;*/
+		padding: 10px 40px 10px 30px;
+}
+
+
+.byLine {
+	background-color: #844125;
+	color:#ace742;
+	color: white;
+	font-size: 14px;
+	margin-left: -30px;
+	margin-top: -10px;
+	padding-top: 20px; 
+	padding-bottom: 20px;	
+	padding-left: 30px;
+	padding-right: 20px;
+	max-width:500px;
+}
+
+
+#mainInfo {
+	/*background-color: #efffd3 !important;*/
+	background-color:#22381d;
+	background-color: #062100;
+
+	color: #ace742;
+	margin-left: -15px;
+	margin-top: 20px;
+	max-width:500px;
+	padding-top: 5px;
+	padding-bottom:20px;
+/*	background-color: yellow !important; 
+*/}
+#resInfo {
+	/*background-color: #efffd3 !important;*/
+	background-color:#22381d;
+	background-color: #062100;
+
+	color: #ace742;
+	margin-left: -15px;
+	margin-top: 20px;
+	max-width:500px;
+	padding-top: 5px;
+	padding-bottom:20px;
+	padding-left: 10px;
+/*	background-color: yellow !important; 
+*/}
+
+.unitName {
+	margin-left: -15px;
+}
+.unitIntro {
+	background-color:#ace742;
+	color: #20661b;
+
+	margin-left: -15px;
+	margin-top: -10px;
+	max-width:500px;
+	padding-bottom: 15px;
+	padding-top:10px;
+	padding-left: 30px;
+	padding-right: 80px;
+}
+
+
+
+.movieNight {
+	background-color: yellow;
+	color: brown;
+		font-size:12pt;
+	margin-top: 0px;
+	padding: 10px 10px 10px 10px;
+	padding: 10px 40px 10px 30px;
+	max-width:500px;
+	margin-left: -15px;
+}
+
+
+.gameHeader {
+		background-color:#ace742;
+	color: #20661b;
+	margin-left: -30px;
+	margin-top: -20px;
+	padding: 10px 40px 10px 150px;
+	max-width:500px;
+
+}
+
+.gameProject {
+
+
+		background-color: green;	
+	color: #ace742;
+	font-size:18px;
+		padding: 10px 40px 10px 30px;
+	max-width:500px;
+	margin-left: -30px;
+}
+
+
+
+.navbar {
+	background-color: #f69f19;
+	background-color: red;
+	background-color: #ea0fbf;
+	background-color: white;
+	background-color: #e24ace;
+	background-color: #0f440a;
+	color: white; 
+	/*padding: -10px;*/
+
+}
+
+.navlink {
+	display: inline;
+	padding:10px;
+	margin:10px;
+}
+
+.navbar-brand {
+	background-color: #3e2c0f;
+	color: white; 
+	
+}
+
+.linkz{
+
+	color: 4B1C13;
+	font-size: 12pt;
+	margin-top:15px;
+	margin-left: 20px;
+}
+
+#imageDiv {
+	margin-top: 120px;
+}
+
+
+.resources {
+	font-size: 20px;
+
+}
+#blackWhite{
+	background-color: #f69f19;
+	background-color: #eb780a;
+	background-color: black;
+	color:white;
+	/*background-color: grey;*/
+}
+
+
+#randomNames {
+	color:pink;
+	font-size: 40px;
+	max-width:720px;
+}
+/*
+
+.project {
+	background-color: white;
+	margin-left: -30px; 
+	width:600px;
+}
+
+.project p{
+
+	margin-left: 50px; 
+	width:600px;
+}
+
+
+/*#green {
+	background-color: #CDE472;
+}*/
+
+/*.myPanelBody {
+	font-size: 16px;
+}*/
+/*
+.linkz{
+
+	color: 4B1C13;
+	font-size: 12pt;
+	margin-top:15px;
+	margin-left: 20px;
+}
+
+.resources{
+	font-size: 18pt; 
+	margin-top:15px;
+	margin-left: 20px;
+}
+
+.resHead{
+	font-size: 24pt;
+}
+.resources li{
+	margin-top:15px;
+	margin-left: 20px;
+}
+
+.readings{
+	/*margin-top:15px;
+	margin-left: 20px;
+}
+*/
+/*
+
+
+/*#crit {
+	background-color: #E80C89;
+	margin-bottom: 30px;
+	max-width:420px;
+	padding-top: 100px;
+	padding-bottom: 100px;
+	padding-left: 20px;
+	padding-right: 20px;
+
+}*/
+
+/*.critText {
+		font-size: 60px;
+}*/*/
+*/
