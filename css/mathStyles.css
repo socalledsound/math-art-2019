@@ -16,7 +16,9 @@ nav {
 
 
 .navTitle {
-	background-color: #3e2c0f;
+	background-color: #F2EEDC;
+	border-radius:0 0 10px 10px;
+	border:1px solid gray;
 	color: #005FE3; 
 	margin-left:0px;
 	padding: 10px;
