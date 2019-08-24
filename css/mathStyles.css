@@ -189,6 +189,20 @@ h2 span {
 	display: inline-block !important;
 
 }
+
+.assy {
+
+		background-color: #3e2c0f !important;
+		color: greenyellow !important;
+	
+		font-size:20px !important;
+		margin-left:40px !important;
+		list-style: none !important;
+		display: inline-block !important;
+
+
+}
+
 .row {
 	margin-right:-10px;
 }
