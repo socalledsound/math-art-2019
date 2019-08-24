@@ -112,6 +112,7 @@ h1 {
 ul li {
 	list-style: none;
 	font-size: 10pt;
+	display:inline-block;
 	/*display:inline;*/
 	/*margin-left:-50px;*/
 }
