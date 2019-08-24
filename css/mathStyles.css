@@ -84,6 +84,8 @@ body {
 
 .page-header {
 	margin-left: -10px;
+	margin-top: -10px;
+	margin-bottom: -40px;
 }
 
 .page-header2 {
