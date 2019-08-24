@@ -342,11 +342,11 @@ text-decoration: underline;
 	color:#ace742;
 	color: white;
 	font-size: 14px;
-	margin-left: -30px;
+	margin-left: -100px;
 	margin-top: -10px;
 	padding-top: 20px; 
 	padding-bottom: 20px;	
-	padding-left: 0px;
+	padding-left: 40px;
 	padding-right: 20px;
 	max-width:400px;
 }
