@@ -113,7 +113,7 @@ h1 {
 
 ul li {
 	list-style: none;
-	font-size: 10pt;
+	font-size: 8pt;
 	display:inline-block;
 	/*display:inline;*/
 	/*margin-left:-50px;*/
@@ -135,7 +135,7 @@ li a {
 /*	color:red;	
 	color: #ea0fbf;*/
 	display: inline-block;
-	font-size: 10pt; 
+	font-size: 8pt; 
 	list-style: none;
 	margin-top: -5px;
 	margin-bottom: 5px;
@@ -282,7 +282,7 @@ text-decoration: underline;
 }
 
 .names {
-	background-color: #ce9665;
+	background-color: #f69f19;
 	color:brown;
 	font-size:10pt;
 	margin-top: -10px;
@@ -468,8 +468,8 @@ text-decoration: underline;
 
 .linkz{
 
-	color: 4B1C13;
-	font-size: 12pt;
+	
+	font-size: 8pt;
 	margin-top:15px;
 	margin-left: 20px;
 }
