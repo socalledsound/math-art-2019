@@ -215,7 +215,7 @@ text-decoration: underline;
 	color: #ace742;
 	font-size:22pt;
 	margin-left: 20px;
-	padding-bottom: 5px;
+	padding: 10px 10px 10px 30px;
 	/*-webkit-text-stroke: 0.8px black;*/
 }
 
@@ -229,7 +229,7 @@ text-decoration: underline;
 	font-style: normal; 
 	font-weight: normal; 
 	text-decoration: none; */
-	font-size: 22pt; 
+	font-size: 16pt; 
 	max-width:400px;
 }
 
