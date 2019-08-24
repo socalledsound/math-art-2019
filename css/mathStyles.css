@@ -83,7 +83,7 @@ body {
 }
 
 .page-header {
-	margin-left: -30px;
+	margin-left: -10px;
 }
 
 .page-header2 {
@@ -132,7 +132,7 @@ ul li {
 li a {
 
 	color: #903A2A;
-	list-style: none;
+	/* list-style: none; */
 	/*color:white;*/
 /*	color:red;	
 	color: #ea0fbf;*/
