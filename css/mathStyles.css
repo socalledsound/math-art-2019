@@ -1,5 +1,5 @@
 nav {
-	background-color: white;
+	background-color: #DCF2F2;
 	color: #005FE3;
 	margin-top: -70px;
 	margin-bottom: -20px;
@@ -18,17 +18,18 @@ nav {
 .navTitle {
 	background-color: #F2EEDC;
 	border-radius:0 0 10px 10px;
-	border:1px solid gray;
+	border:2px solid #005FE3;
 	color: #005FE3; 
 	margin-left:0px;
-	padding: 10px;
+	padding: 20px;
 	
 }
 
 #resources  {
-	background-color: #ba9d7f;
+	background-color: #DED7C3;
 	color:#005FE3;
-	/*margin-right: 10px;*/
+	border-radius:0 0 10px 10px;
+	border:2px solid #005FE3;
 	margin-left: 10px;
 	padding: 10px;
 	/*margin-top: 10px;*/
