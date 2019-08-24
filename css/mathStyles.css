@@ -178,6 +178,13 @@ h2 span {
    padding: 10px; 
 }
 
+
+#ass {
+
+	list-style: none;
+	display: inline-block;
+
+}
 .row {
 	margin-right:-10px;
 }
