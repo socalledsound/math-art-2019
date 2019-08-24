@@ -1,5 +1,5 @@
 nav {
-	background-color: #DCF2F2;
+	background-color: #F8FFC7;
 	color: #005FE3;
 	margin-top: -70px;
 	margin-bottom: -20px;
@@ -17,11 +17,11 @@ nav {
 
 .navTitle {
 	background-color: #F2EEDC;
-	border-radius:0 0 10px 10px;
-	border:2px solid #005FE3;
+	border-radius:10px 10px 10px 10px;
+	border:2px solid #EEFF75;
 	color: #005FE3; 
 	margin-left:0px;
-	padding: 20px;
+	padding: 10px;
 	
 }
 
@@ -29,7 +29,7 @@ nav {
 	background-color: #DED7C3;
 	color:#005FE3;
 	border-radius:0 0 10px 10px;
-	border:2px solid #005FE3;
+	border:2px solid #EEFF75;
 	margin-left: 10px;
 	padding: 10px;
 	/*margin-top: 10px;*/
