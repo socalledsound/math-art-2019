@@ -18,7 +18,7 @@ nav {
 .navTitle {
 	background-color: #F2EEDC;
 	border-radius:10px 10px 10px 10px;
-	border:2px solid #EEFF75;
+	border:5px solid #EEFF75;
 	color: #FF8A75; 
 	margin-left:0px;
 	padding: 10px;
@@ -26,10 +26,10 @@ nav {
 }
 
 #resources  {
-	background-color: #DED7C3;
-	color:#005FE3;
-	border-radius:0 0 10px 10px;
-	border:2px solid #EEFF75;
+	background-color: #F2EEDC;
+	border-radius:10px 10px 10px 10px;
+	border:5px solid #EEFF75;
+	color: #FF8A75; 
 	margin-left: 10px;
 	padding: 10px;
 	/*margin-top: 10px;*/
@@ -48,11 +48,10 @@ nav {
 }
 
 #rules {
-	background-color: #38280e;
-		color:#005FE3;
-		border-radius:0 0 10px 10px;
-		border:2px solid #EEFF75;
-		
+	background-color: #F2EEDC;
+	border-radius:10px 10px 10px 10px;
+	border:5px solid #EEFF75;
+	color: #FF8A75; 
 	margin-left: 10px;
 	/*margin-top: 10px;*/
 	max-width:140px;
@@ -75,10 +74,7 @@ nav {
 
 body {
 	background-color: #FF8875;
-	background-color: ##C7F9A2;
-	/*background-color: #bfefb6;*/
-	background-color: #359b28;
-	/*background-color: white;*/
+
 	color:#e6e6e6;
 	color:white;
 	color: #3e2c0f;
