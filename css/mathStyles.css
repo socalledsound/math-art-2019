@@ -79,6 +79,7 @@ body {
 	color:white;
 	color: #3e2c0f;
 	margin-top: 15px;
+	padding-left: 20px;
 }
 
 .page-header {
@@ -102,8 +103,8 @@ h1 {
 	/* margin-left: -80px; */
 	margin-bottom: -15px;
 	margin-top: 15px;
-	max-width:400px;
-	padding-left: 40px;
+	max-width:380px;
+	padding-left: 20px;
 	padding-top: 30px;
 	padding-bottom: 15px;
 }
