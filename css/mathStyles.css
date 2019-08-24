@@ -91,20 +91,18 @@ body {
 
 h1 {
 
-/*	color:#3e2c0f;
-	color: #eb780a;
-	color: #B4591F;*/
-	/*color: #ace742;*/
-	/*color: #359b28;*/
+
 	background-color: #F29E8F;
 	color: #EEFF75;
+	border-radius:10px 10px 10px 10px;
+	border:5px solid ##F2AA9D;
 	font-size: 22pt;
 	height:100px;
 	/*max-height: 200px;*/
 	margin-bottom: -15px;
 	margin-top: 15px;
-	max-width:500px;
-	padding-left: 30px;
+	max-width:400px;
+	padding-left: 10px;
 	padding-top:30px;
 	padding-bottom: -15px;
 }
