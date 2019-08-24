@@ -95,10 +95,11 @@ h1 {
 	background-color: #F29E8F;
 	color: #EEFF75;
 	border-radius:10px 10px 10px 10px;
-	border:5px solid ##F2AA9D;
+	border:10px solid #F2AA9D;
 	font-size: 22pt;
 	height:100px;
 	/*max-height: 200px;*/
+	margin-left: -80px;
 	margin-bottom: -15px;
 	margin-top: 15px;
 	max-width:400px;
@@ -339,10 +340,11 @@ text-decoration: underline;
 
 .byLine {
 	background-color: #844125;
-	color:#ace742;
 	color: white;
+	border-radius:10px 10px 10px 10px;
+	border:10px solid #F2AA9D;
 	font-size: 14px;
-	margin-left: -100px;
+	margin-left: -80px;
 	margin-top: -10px;
 	padding-top: 20px; 
 	padding-bottom: 20px;	
