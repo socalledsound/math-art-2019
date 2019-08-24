@@ -101,7 +101,7 @@ h1 {
 	border-radius:10px 10px 10px 10px;
 	border:10px solid #F2AA9D;
 	font-size: 14pt;
-	height:100px;
+	/* height:100px; */
 	/*max-height: 200px;*/
 	/* margin-left: -80px; */
 	margin-bottom: -15px;
@@ -180,9 +180,13 @@ h2 span {
 
 
 #ass {
+	background-color: #3e2c0f !important;
+	color: greenyellow !important;
 
-	list-style: none;
-	display: inline-block;
+	font-size:20px !important;
+	margin-left:40px !important;
+	list-style: none !important;
+	display: inline-block !important;
 
 }
 .row {
