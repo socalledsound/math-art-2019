@@ -200,6 +200,7 @@ h2 span {
 		margin-left:40px !important;
 		list-style: none !important;
 		display: inline-block !important;
+		max-width:200px;
 
 
 }
@@ -238,7 +239,7 @@ text-decoration: underline;
 	/*height:100px;*/
 	margin-left: -15px;
 	margin-top: -10px;
-	max-width:200px;
+	
 /*	padding-left: 15px;
 	padding-right: 30px;
 	padding-top:30px;
@@ -255,6 +256,7 @@ text-decoration: underline;
 	font-size: 16pt;
 	margin-left: 20px;
 	padding: 10px 10px 10px 30px;
+	max-width:200px;
 	/*-webkit-text-stroke: 0.8px black;*/
 }
 
