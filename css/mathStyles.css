@@ -135,8 +135,9 @@ li a {
 	list-style: none;
 	margin-top: -5px;
 	margin-bottom: 5px;
+	padding-right: 20px;
 /*	margin-left: 10px;*/
-	max-width:600px;
+	/* max-width:600px; */
 	/*-webkit-text-stroke: 0.8px black;*/
 
 }
