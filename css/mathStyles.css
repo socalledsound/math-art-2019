@@ -253,7 +253,7 @@ text-decoration: underline;
 	color: #F5F556;
 	border-radius:10px 10px 10px 10px;
 	border:5px solid #EEFF75;
-	font-size: 16pt;
+	font-size: 12pt;
 	margin-left: 20px;
 	padding: 10px 10px 10px 30px;
 	max-width:200px;
@@ -269,7 +269,7 @@ text-decoration: underline;
 	font-style: normal; 
 	font-weight: normal; 
 	text-decoration: none; */
-	font-size: 16pt; 
+	font-size: 12pt; 
 	max-width:200px;
 }
 
