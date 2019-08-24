@@ -184,7 +184,7 @@ h2 span {
 	color: greenyellow !important;
 
 	font-size:20px !important;
-	margin-left:40px !important;
+	margin-left:0px !important;
 	list-style: none !important;
 	display: inline-block !important;
 
@@ -197,7 +197,8 @@ h2 span {
 		border-radius:10px 10px 10px 10px;
 		border:10px solid #F2AA9D;
 		font-size:16px !important;
-		margin-left:40px !important;
+		margin-left:10px !important;
+		margin-top:10px;
 		list-style: none !important;
 		display: inline-block !important;
 		max-width:200px;
