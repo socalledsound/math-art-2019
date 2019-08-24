@@ -99,7 +99,7 @@ h1 {
 	color: #EEFF75;
 	border-radius:10px 10px 10px 10px;
 	border:10px solid #F2AA9D;
-	font-size: 22pt;
+	font-size: 14pt;
 	height:100px;
 	/*max-height: 200px;*/
 	/* margin-left: -80px; */
@@ -109,7 +109,7 @@ h1 {
 	max-width:380px;
 	padding-left: 15px;
 	padding-right: 5px;
-	padding-top: 30px;
+	padding-top: 15px;
 	padding-bottom: 15px;
 }
 
