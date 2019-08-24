@@ -132,7 +132,7 @@ ul li {
 li a {
 
 	color: #903A2A;
-	/* list-style: none; */
+	list-style: none;
 	/*color:white;*/
 /*	color:red;	
 	color: #ea0fbf;*/
@@ -291,6 +291,7 @@ text-decoration: underline;
 	padding: 10px 40px 10px 30px;
 	max-width:500px;
 	margin-left: 0px;
+	list-style: none;
 }
 
 
