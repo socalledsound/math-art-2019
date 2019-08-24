@@ -115,7 +115,7 @@ h1 {
 }
 
 ul li {
-	background-color: #f69f19;
+
 	color: #903A2A;
 	list-style: none;
 	font-size: 8pt;
@@ -133,7 +133,7 @@ ul li {
 
 
 li a {
-
+	background-color: #f69f19;
 	color: #903A2A;
 	list-style: none;
 	/*color:white;*/
