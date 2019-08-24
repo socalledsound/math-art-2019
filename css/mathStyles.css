@@ -110,6 +110,7 @@ h1 {
 
 ul li {
 	list-style: none;
+	font-size: 10pt;
 	/*display:inline;*/
 	/*margin-left:-50px;*/
 }
@@ -130,10 +131,10 @@ li a {
 /*	color:red;	
 	color: #ea0fbf;*/
 	display: inline-block;
-	font-size: 12pt; 
+	font-size: 10pt; 
 	list-style: none;
 	margin-top: -5px;
-	margin-bottom: 10px;
+	margin-bottom: 5px;
 /*	margin-left: 10px;*/
 	max-width:600px;
 	/*-webkit-text-stroke: 0.8px black;*/
