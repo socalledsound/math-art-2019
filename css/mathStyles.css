@@ -99,11 +99,11 @@ h1 {
 	font-size: 22pt;
 	height:100px;
 	/*max-height: 200px;*/
-	margin-left: -80px;
+	/* margin-left: -80px; */
 	margin-bottom: -15px;
 	margin-top: 15px;
 	max-width:400px;
-	padding-left: 0px;
+	padding-left: 40px;
 	padding-top: 30px;
 	padding-bottom: -15px;
 }
@@ -344,7 +344,7 @@ text-decoration: underline;
 	border-radius:10px 10px 10px 10px;
 	border:10px solid #F2AA9D;
 	font-size: 14px;
-	margin-left: -80px;
+	/* margin-left: -80px; */
 	margin-top: -10px;
 	padding-top: 20px; 
 	padding-bottom: 20px;	
