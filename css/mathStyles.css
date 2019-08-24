@@ -212,7 +212,9 @@ text-decoration: underline;
 
 .date{
 	background-color: #78F556;
-	color: #ace742;
+	color: #F5F556;
+	border-radius:10px 10px 10px 10px;
+	border:5px solid #EEFF75;
 	font-size:22pt;
 	margin-left: 20px;
 	padding: 10px 10px 10px 30px;
