@@ -107,7 +107,7 @@ h1 {
 	margin-bottom: -15px;
 	margin-top: 15px;
 	margin-right: 15px;
-	/* max-width:280px; */
+	max-width:280px;
 	padding-left: 15px;
 	padding-right: 5px;
 	padding-top: 15px;
@@ -238,12 +238,12 @@ text-decoration: underline;
 	/*height:100px;*/
 	margin-left: -15px;
 	margin-top: -10px;
-	max-width:400px;
+	max-width:200px;
 /*	padding-left: 15px;
 	padding-right: 30px;
 	padding-top:30px;
 	padding-bottom:30px;*/
-	padding: 10px 0px 10px 30px;
+	padding: 20px 30px 20px 30px;
 }
 
 
@@ -268,7 +268,7 @@ text-decoration: underline;
 	font-weight: normal; 
 	text-decoration: none; */
 	font-size: 16pt; 
-	/* max-width:400px; */
+	max-width:200px;
 }
 
 
