@@ -183,8 +183,8 @@ h2 span {
 	background-color: #3e2c0f !important;
 	color: greenyellow !important;
 
-	font-size:20px !important;
-	margin-left:0px !important;
+	font-size: 20px !important;
+	margin-left: 10px !important;
 	list-style: none !important;
 	display: inline-block !important;
 
@@ -194,14 +194,14 @@ h2 span {
 		text-decoration: underline;
 		background-color: #3e2c0f !important;
 		color: greenyellow !important;
-		border-radius:10px 10px 10px 10px;
-		border:10px solid #F2AA9D;
-		font-size:16px !important;
-		margin-left:10px !important;
-		margin-top:10px;
+		border-radius: 10px 10px 10px 10px;
+		border: 10px solid #F2AA9D;
+		font-size: 16px !important;
+		margin-left: 10px !important;
+		margin-top: 10px;
 		list-style: none !important;
 		display: inline-block !important;
-		max-width:200px;
+		max-width: 200px;
 
 
 }
