@@ -135,6 +135,7 @@ ul li {
 li a {
 	background-color: #f69f19;
 	color: #903A2A;
+/* 	color: #edeb51; */
 	list-style: none;
 	/*color:white;*/
 /*	color:red;	
@@ -201,7 +202,7 @@ h2 span {
 		margin-top: 10px;
 		list-style: none !important;
 		display: inline-block !important;
-		max-width: 200px;
+		max-width: 400px;
 
 
 }
@@ -247,7 +248,7 @@ text-decoration: underline;
 	/*background-color: #737773;*/
 	font-size: 12pt; 
 	/*height:100px;*/
-	margin-left: -15px;
+	margin-left: 10px;
 	margin-top: -10px;
 	
 /*	padding-left: 15px;
@@ -266,7 +267,7 @@ text-decoration: underline;
 	font-size: 12pt;
 	margin-left: 10px;
 	padding: 10px 10px 10px 30px;
-	max-width:200px;
+	max-width:400px;
 	/*-webkit-text-stroke: 0.8px black;*/
 }
 
